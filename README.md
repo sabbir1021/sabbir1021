@@ -6,6 +6,12 @@ Skills: Python,Django, HTML, CSS, Bootstrap, Selenium , Postman
 
 - 🔭 I’m currently working on this page. 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sabbir1021)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sabbir1021/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sabbirahmed.farhan.9)  
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sabbir1021&show_icons=true)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sabbir1021)  
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sabbir1021)  
+
+![Profile views](https://gpvc.arturio.dev/sabbir1021)  
