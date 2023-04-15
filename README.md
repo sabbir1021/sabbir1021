@@ -2,7 +2,7 @@
 
 My name is Sabbir Ahmed and I'm a software developer. I'm from Bangladesh, living in Dhaka and currently working as a Full-time Software Engineer at Arbree solutions Ltd. You can find me on LinkedIn.
 
-Skills: Python,Django, HTML, CSS, Bootstrap , Postman
+Skills: Python,Django, AWS Lambda (serverless architecture), PostgreSQL, MySQL, Oracle,  HTML, CSS, Bootstrap
 
 - 🔭 I’m currently working on this page. 
 
